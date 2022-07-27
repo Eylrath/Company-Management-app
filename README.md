@@ -1,3 +1,4 @@
 # Company-Management-app
-Run through 
+Run through:
+
 python company_management.py
